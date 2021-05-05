@@ -1,6 +1,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix schema: <https://schema.org> .
 @prefix dbr: <https://dbpedia.org/resource/> .
+@prefix dbo: <https://dbpedia.org/ontology> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix covid: <https://raw.githubusercontent.com/rhdayat/linkeddatacovid19/main/persebaran-covid.ttl#> .
 
 
